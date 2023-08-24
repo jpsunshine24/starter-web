@@ -14,3 +14,5 @@ Sample website with plenty of files for demos. Git Training.
 Deployment can be to any web server
 
 ## How To Contribute
+###Copyright
+2023 git training
